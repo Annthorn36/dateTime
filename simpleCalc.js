@@ -12,7 +12,7 @@ console.log(z)
 
  putTheNumsTogether (3,7);
 
- while{calculator}
+ 
  
 
 
